@@ -1,0 +1,49 @@
+.MainHeader {
+    width: 100%;
+    background: #2ddf5c;
+    padding: 8px 16px;
+    margin: 0
+}
+
+.MainHeader > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+.MainHeader > div a{
+    text-decoration: none;
+}
+
+.MainHeaderBrand {
+    color: #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.MainNav {
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 150px);
+    vertical-align: middle;
+}
+
+.MainNavItems {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.Gallery a {
+    color: white;
+    background: green;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.Gallery a:hover,
+.Gallery a:active {
+    color: white;
+    background: rgb(48, 97, 43);
+    border: none;
+}

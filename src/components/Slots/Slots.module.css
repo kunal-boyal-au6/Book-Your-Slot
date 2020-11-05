@@ -1,0 +1,10 @@
+.Slot {
+  display: inline-block;
+  background: #2c9f45;
+  width: 30%;
+  height: 300px;
+  margin: 20px;
+  text-align: center;
+  border: 5px solid #0e4f1f;
+  border-radius: 10px;
+}

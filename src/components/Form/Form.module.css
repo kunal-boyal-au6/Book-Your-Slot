@@ -1,0 +1,40 @@
+.Form {
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    height: 500px;
+    text-align:center;
+    background-color: #f3f4f7;
+    border: 5px solid black;
+    border-radius: 10px
+}
+
+input {
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 80%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+button {
+  background-color: #2ddf5c;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+}
